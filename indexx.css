@@ -1,0 +1,578 @@
+/* large screen */
+@media screen and (min-width: 1024px) {
+  * {
+    margin: 0;
+    padding: 0;
+    br {
+      display: none;
+    }
+  }
+  body {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  header {
+    display: none;
+  }
+
+  .sectiona {
+    margin-top: 35px;
+  }
+
+  .david {
+    font-size: 2.5rem;
+    margin-right: 50%;
+    font-weight: 700;
+    color: rgb(233, 106, 106);
+  }
+
+  button {
+    display: none;
+  }
+
+  .nav_side {
+    font-size: 1.5rem;
+    font-weight: 500;
+    word-spacing: 2em;
+  }
+
+  .say-hi {
+    color: white;
+    word-spacing: normal;
+    margin-left: 2em;
+    border: solid rgb(233, 106, 106);
+    border-radius: 5px;
+    background-color: rgb(233, 106, 106);
+    padding: 8px 20px;
+  }
+
+  .sectionaa {
+    display: none;
+  }
+
+  .sectionb {
+    column-count: 2;
+    margin-top: 10rem;
+  }
+
+  .product {
+    font-size: 3.2em;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+
+  .currently {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    line-height: 35px;
+  }
+
+  .say-hi2 {
+    color: white;
+    word-spacing: normal;
+    margin-right: 15px;
+    border: solid rgb(233, 106, 106);
+    border-radius: 5px;
+    background-color: rgb(233, 106, 106);
+    padding: 15px 45px;
+  }
+
+  .svg {
+    margin-right: 10px;
+  }
+  .figure1 {
+    margin-left: 8em;
+  }
+
+  .little {
+    font-size: 3.2rem;
+    margin-bottom: 20px;
+  }
+  .About {
+    color: rgb(233, 106, 106);
+    margin-bottom: 20px;
+  }
+
+  .sectionc {
+    column-count: 2;
+    column-width: 500px;
+    margin-top: 10rem;
+    display: block;
+  }
+
+  .paragraph1 {
+    break-inside: avoid;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 35px;
+  }
+
+  .subp {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  }
+
+  .man-with-heart {
+    margin-top: 10px;
+    margin-left: 8em;
+  }
+
+  .contentd {
+    margin-top: 10rem;
+    margin-right: 10%;
+  }
+
+  .full {
+    font-size: 3.2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .work {
+    color: rgb(233, 106, 106);
+  }
+  .view {
+    text-align: right;
+    border-bottom: 3px solid rgb(200, 200, 200);
+    font-size: 1.2rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+    padding-bottom: 25px;
+  }
+
+  .twenty {
+    column-count: 3;
+    font-size: 1.5rem;
+    line-height: 40px;
+  }
+
+  .faded {
+    color: rgb(200, 200, 200);
+  }
+
+  .e1 {
+    margin-top: 10rem;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 3px solid rgb(200, 200, 200);
+    margin-right: 10%;
+    padding-bottom: 25px;
+  }
+
+  .skill {
+    color: rgb(233, 106, 106);
+  }
+
+  .web {
+    column-count: 3;
+  }
+
+  .weba,
+  .webb,
+  .webc {
+    font-size: 1.5rem;
+  }
+
+  .sectionf {
+    font-size: 3rem;
+    margin-top: 10rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .works {
+    color: rgb(233, 106, 106);
+  }
+
+  .sectiong {
+    align-items: center;
+    padding-left: 4%;
+  }
+
+  .art {
+    margin: 10px 10px 10px 10px;
+  }
+  .side {
+    margin-left: 90px;
+  }
+
+  .arta {
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+
+  .sectionh {
+    column-count: 2;
+    margin-top: 10rem;
+  }
+
+  .skills {
+    font-size: 3.2rem;
+    margin-bottom: 20px;
+  }
+
+  .make {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    line-height: 35px;
+    break-inside: avoid;
+  }
+
+  .dlogo {
+    margin-left: 30%;
+  }
+
+  .dribble {
+    color: rgb(233, 106, 106);
+  }
+
+  .sectioni {
+    column-count: 2;
+    margin-top: 20px;
+  }
+
+  .let {
+    font-size: 3.2rem;
+  }
+
+  .conect {
+    color: rgb(233, 106, 106);
+  }
+
+  .collaboration,
+  .social {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    line-height: 35px;
+  }
+
+  .say-hi3 {
+    margin-top: 20px;
+    color: white;
+    word-spacing: normal;
+    margin-right: 15px;
+    border: solid rgb(233, 106, 106);
+    border-radius: 5px;
+    background-color: rgb(233, 106, 106);
+    padding: 15px 45px;
+  }
+
+  .findme {
+    font-size: 3.2rem;
+    margin-bottom: 10px;
+  }
+  .find {
+    color: rgb(233, 106, 106);
+  }
+
+  footer {
+    margin-top: 100px;
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    background-color: rgb(233, 106, 106);
+    padding-top: 50px;
+    padding-bottom: 40px;
+  }
+}
+
+/* mobile*/
+
+@media screen and (min-width: 360px) and (max-width: 430px) {
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  header {
+    color: black;
+    border-bottom: solid 2px black;
+  }
+  .rd {
+    color: rgb(233, 106, 106);
+    font-size: 2.5rem;
+  }
+
+  .sectionaa {
+    padding: 0.25rem 0.5rem;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+  }
+
+  .menu-button {
+    color: rgb(233, 106, 106);
+    background-color: transparent;
+    border: black solid black;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+
+  .menu-icon,
+  .menu-icon::before,
+  .menu-icon::after {
+    color: black;
+    background-color: black;
+    width: 40px;
+    height: 5px;
+    border-radius: 5px;
+    position: absolute;
+    transition: all 0.5s;
+  }
+
+  .menu-icon::before,
+  .menu-icon::after {
+    content: "";
+  }
+
+  .menu-icon::before .sectiona {
+    display: none;
+  }
+
+  .menu-icon::before {
+    transform: translate(-20px, -12px);
+  }
+  .menu-icon::after {
+    transform: translate(-20px, 12px);
+  }
+
+  :is(header:hover, header:focus-within) .menu-icon {
+    background-color: transparent;
+    transform: rotate(360deg);
+  }
+
+  :is(header:hover, header:focus-within) .menu-icon::before {
+    transform: translateX(-20px) rotate(45deg);
+  }
+
+  :is(header:hover, header:focus-within) .menu-icon::after {
+    transform: translateX(-20px) rotate(-45deg);
+  }
+  :is(header:hover, header:focus-within) nav {
+    display: block;
+  }
+
+  nav {
+    display: none;
+    transform-origin: top center;
+    animation: showmenu 0.5s ease-in-out forwards;
+  }
+
+  @keyframes showmenu {
+    0% {
+      transform: scaleY(0);
+    }
+
+    80% {
+      transform: scaleY(1);
+    }
+
+    100% {
+      transform: scaleY(1);
+    }
+  }
+
+  nav ul {
+    background-color: rgb(233, 106, 106);
+    color: whitesmoke;
+    list-style: none;
+    display: flex;
+    flex-flow: column nowrap;
+  }
+
+  nav li {
+    padding: 0.5rem;
+    text-align: center;
+    display: block;
+    width: 80%;
+    margin: auto;
+    font-weight: bold;
+  }
+
+  .sectiona {
+    display: none;
+  }
+
+  .sectionb {
+    margin-top: 20px;
+  }
+
+  .product {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    break-inside: avoid;
+  }
+
+  .currently {
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+
+  .say-hi2 {
+    color: white;
+    word-spacing: normal;
+    margin-right: 15px;
+    border: solid rgb(233, 106, 106);
+    border-radius: 5px;
+    background-color: rgb(233, 106, 106);
+    padding: 10px 35px;
+  }
+
+  .svg {
+    margin-right: 10px;
+  }
+  .figure1 img {
+    margin-top: 40px;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .sectionc {
+    margin-top: 20px;
+  }
+  .little {
+    font-size: 2rem;
+  }
+  .About {
+    color: rgb(233, 106, 106);
+    margin-bottom: 20px;
+  }
+  .paragraph1 {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 30px;
+  }
+  .subp {
+    margin-top: 0.5rem;
+  }
+  .man-with-heart img {
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  .contentd {
+    margin-top: 30px;
+    margin-right: 10%;
+  }
+  .full {
+    font-size: 2.1rem;
+    margin-bottom: 8px;
+  }
+  .work {
+    color: rgb(233, 106, 106);
+  }
+  .view {
+    text-align: right;
+    border-bottom: 2px solid rgb(200, 200, 200);
+    font-size: 0.8rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+    padding-bottom: 25px;
+  }
+  .twenty {
+    font-size: 1rem;
+    line-height: 25px;
+  }
+  .twenty1,
+  .twenty2,
+  .twenty3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .faded {
+    color: rgb(200, 200, 200);
+  }
+
+  .e1 {
+    margin-top: 30px;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid rgb(200, 200, 200);
+    margin-right: 10%;
+    padding-bottom: 15px;
+  }
+  .skill {
+    color: rgb(233, 106, 106);
+  }
+
+  .weba,
+  .webb,
+  .webc {
+    font-size: 1rem;
+    line-height: 30px;
+    margin-top: 40px;
+  }
+  .sectionf {
+    font-size: 2rem;
+    margin-top: 40px;
+    margin-bottom: 1.5rem;
+  }
+  .art,
+  .arta {
+    max-width: 100%;
+    height: auto;
+  }
+  .sectionh {
+    margin-top: 30px;
+  }
+
+  .skills {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  .make {
+    font-size: 1rem;
+    line-height: 25px;
+    margin-top: 20px;
+  }
+  .dribble {
+    color: rgb(233, 106, 106);
+  }
+  .dlogo {
+    display: none;
+  }
+  .sectioni {
+    margin-top: 20px;
+  }
+
+  .let {
+    font-size: 2rem;
+  }
+
+  .conect {
+    color: rgb(233, 106, 106);
+  }
+
+  .collaboration {
+    font-size: 1rem;
+    line-height: 25px;
+    margin-top: 20px;
+  }
+  .findme {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  .find {
+    color: rgb(233, 106, 106);
+  }
+
+  footer {
+    background-color: rgb(233, 106, 106);
+  }
+}
